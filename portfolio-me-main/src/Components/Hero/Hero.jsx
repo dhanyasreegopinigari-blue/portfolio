@@ -1,0 +1,47 @@
+import "../../Global.css";
+import Avatar from "../../Assets/profile.png";
+import "./Hero.css";
+import Pill from "../Pill/Pill";
+
+function Hero({
+  name = "Dhanyasree Gopinigari",
+  role = "CS Engineer | Full Stack Developer | AI Enthusiast",
+  description = "Im a Computer Science student passionate about building modern web applications, exploring AI, cloud technologies, solving real-world problems and continuously learning through hands-on projects. I am currently seeking new opportunities to grow my skills and contribute to a team.",
+  email = "dhanyasreegopinigari@gmail.com",
+  mobile = "+91 6302097647",
+  linkedin = "https://www.linkedin.com/in/dhanyasree-gopinigari-694378409/",
+  github = "https://github.com/dhanyasreegopinigari-blue",
+  resume = "https://resume.com",
+}) {
+
+  return (
+    <div className="hero">
+      <div className="image">
+        <div className="avatar">
+          <img src={Avatar} alt="Avatar" />
+        </div>
+        <a href={resume} target="_blank" rel="noreferrer">
+        <Pill content="View Resume" color="invert" />
+        </a>
+      </div>
+
+      <div className="hero-content">
+        <div className="role">
+          <Pill content={role} />
+        </div>
+        <div className="description">
+          <h1>Hi, I'm {name}</h1>
+          <span>{description}</span>
+        </div>
+        <div className="links">
+          <a target="_blank" rel="noreferrer" href={`mailto:${email}`}><Pill content={email} /></a>
+          <a target="_blank" rel="noreferrer" href={`tel:${mobile}`}><Pill content={mobile} /></a>
+          <a target="_blank" rel="noreferrer" href={linkedin}><Pill content="LinkedIn" /></a>
+          <a target="_blank" rel="noreferrer" href={github}><Pill content="GitHub" /></a>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default Hero;
