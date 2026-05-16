@@ -12,7 +12,7 @@ import Footer from './Components/Footer/Footer';
 import './App.css';
 import './Global.css';
 
-function App(card) {
+function App() {
   const [darkMode, setDarkMode] = useState(false);
 
   useEffect(() => {
@@ -34,7 +34,7 @@ function App(card) {
           <FontAwesomeIcon icon={darkMode ? faSun : faMoon} />
         </button>
         <Header />
-        <Hero card={card} />
+        <Hero />
         <Skills />
         <Projects />
         <About />
