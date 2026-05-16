@@ -35,9 +35,9 @@ function App() {
         </button>
         <Header />
         <Hero />
+        <About />
         <Skills />
         <Projects />
-        <About />
         <Certifications />
         <Contact />
         <Footer />
