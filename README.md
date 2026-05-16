@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website built with **React.js** and d
 
 ## 🚀 Live Demo
 
-🔗 https://dhanyasreegopinigari-blue.github.io/portfolio-me/
+🔗 https://dhanyasreegopinigari-blue.github.io/portfolio/
 
 ---
 
@@ -50,7 +50,7 @@ A modern and responsive personal portfolio website built with **React.js** and d
 # 📂 Project Structure
 
 ```bash
-portfolio-me/
+portfolio/
 ├── public/
 ├── src/
 │   ├── Components/
@@ -68,13 +68,13 @@ portfolio-me/
 Clone the repository:
 
 ```bash
-git clone https://github.com/dhanyasreegopinigari-blue/portfolio-me.git
+git clone https://github.com/dhanyasreegopinigari-blue/portfolio.git
 ```
 
 Move into project directory:
 
 ```bash
-cd portfolio-me
+cd portfolio
 ```
 
 Install dependencies:
