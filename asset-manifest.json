@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dhanyasreegopinigari-blue/portfolio/static/css/main.a732512a.css",
+    "main.js": "/dhanyasreegopinigari-blue/portfolio/static/js/main.3b0e9333.js",
+    "static/media/profile.png": "/dhanyasreegopinigari-blue/portfolio/static/media/profile.90e1eea9cc88c1ace741.png",
+    "index.html": "/dhanyasreegopinigari-blue/portfolio/index.html",
+    "main.a732512a.css.map": "/dhanyasreegopinigari-blue/portfolio/static/css/main.a732512a.css.map",
+    "main.3b0e9333.js.map": "/dhanyasreegopinigari-blue/portfolio/static/js/main.3b0e9333.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a732512a.css",
+    "static/js/main.3b0e9333.js"
+  ]
+}
