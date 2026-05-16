@@ -1,5 +1,5 @@
 import "../../Global.css";
-import Avatar from "../../Assets/profile.png";
+import Avatar from "../../Assets/profile.jpeg";
 import "./Hero.css";
 import Pill from "../Pill/Pill";
 
