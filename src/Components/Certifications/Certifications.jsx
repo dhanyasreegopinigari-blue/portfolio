@@ -76,7 +76,7 @@ return (
 
 <div className="certificates">
 
-{certifications.map((certificate,index)=>(
+{certificates.map((certificate,index)=>(
 
 <Certificate
 key={index}
