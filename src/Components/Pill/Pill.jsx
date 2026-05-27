@@ -1,10 +1,9 @@
 import React from 'react'
-import '../../Global.css'
 import './Pill.css'
 
-function Pill({ content = 'Pill', color = 'default' }) {
+function Pill({content, color=""}) {
   return (
-    <div className={ color === 'default' ? "pill" : "pill invert" }>
+    <div className={`pill ${color}`}>
       {content}
     </div>
   )
