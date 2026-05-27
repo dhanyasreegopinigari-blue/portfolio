@@ -21,7 +21,7 @@ technologies: [
 ],
 image: "./images/password-strength-analyzer.png",
 github: "https://github.com/dhanyasreegopinigari-blue/password-strength-analyzer",
-demo: "https://password-strength-analyzer.vercel.app"
+demo: "https://password-strength-analyzer-7ad0.onrender.com/"
 },
 
 {
@@ -38,7 +38,7 @@ technologies: [
 ],
 image: "./images/phishing-email-detection-system.png",
 github: "https://github.com/dhanyasreegopinigari-blue/phishing-email-detection-system",
-demo: "https://phishing-email-detection-system.vercel.app"
+demo: "https://phishing-email-detection-system-2.onrender.com/"
 },
 
 {
@@ -55,7 +55,7 @@ technologies: [
 ],
 image: "./images/secure-login-system.png",
 github: "https://github.com/dhanyasreegopinigari-blue/secure-login-system",
-demo: "https://secure-login-system.vercel.app"
+demo: "https://secure-login-system-7kh1.onrender.com/login"
 },
 
 {
@@ -72,7 +72,7 @@ technologies: [
 ],
 image: "./images/portfolio.png",
 github: "https://github.com/dhanyasreegopinigari-blue/portfolio",
-demo: "https://dhanyasree-portfolio.vercel.app"
+demo: "https://dhanyasreegopinigari-blue.github.io/portfolio/"
 },
 
 {

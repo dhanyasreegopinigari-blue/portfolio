@@ -13,13 +13,15 @@ date:"2026",
 skills:["RAG","Agentic AI","Large Language Models","AI Workflows"],
 link:"./certificates/ibm-rag-agentic-ai.pdf"
 },
+
 {
 title:"IBM Generative AI for Software Development",
 issuer:"IBM",
 date:"2026",
 skills:["Generative AI","Software Development","AI-assisted Coding","Machine Learning"],
-link:"./certificates/ibm-genai-for-sw-dev.pdf"
+link:"./certificates/ibm-genai-for-sw-devp.pdf"
 },
+
 {
 title:"Google AI Essentials",
 issuer:"Google",
@@ -27,6 +29,7 @@ date:"2026",
 skills:["Artificial Intelligence","Prompt Engineering","Generative AI","AI Tools"],
 link:"./certificates/google-ai-essentials.pdf"
 },
+
 {
 title:"Google Prompting Essentials",
 issuer:"Google",
@@ -34,6 +37,7 @@ date:"2026",
 skills:["Prompt Engineering","Generative AI","LLM Usage","AI Communication"],
 link:"./certificates/google-prompting-essentials.pdf"
 },
+
 {
 title:"Google Data Analysis with Python",
 issuer:"Google",
@@ -41,6 +45,7 @@ date:"2026",
 skills:["Python","Pandas","Data Analysis","Data Visualization"],
 link:"./certificates/google-data-analysis-with-python.pdf"
 },
+
 {
 title:"Google IT Automation with Python",
 issuer:"Google",
@@ -48,6 +53,7 @@ date:"2026",
 skills:["Python","Automation","Scripting","IT Support"],
 link:"./certificates/google-it-automation-with-python.pdf"
 },
+
 {
 title:"Google Network Security",
 issuer:"Google",
@@ -55,6 +61,7 @@ date:"2026",
 skills:["Network Security","Cybersecurity","Risk Management","Security Operations"],
 link:"./certificates/google-network-security.pdf"
 },
+
 {
 title:"Cisco Cyber Security",
 issuer:"Cisco",
