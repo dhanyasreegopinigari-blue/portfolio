@@ -73,7 +73,8 @@ git clone https://github.com/dhanyasreegopinigari-blue/portfolio.git
 
 Move into project directory:
 
-```bash
+```bash<img width="754" height="1600" alt="portfolio image" src="https://github.com/user-attachments/assets/43c00ee2-7e52-434c-8878-9d1b04de134b" />
+
 cd portfolio
 ```
 
