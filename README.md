@@ -108,7 +108,8 @@ npm run deploy
 
 ## Home Page
 
-![Portfolio Screenshot](./thumbnail.jpeg)
+![Portfolio Screenshot](<img width="754" height="1600" alt="portfolio image" src="https://github.com/user-attachments/assets/7562449b-1953-4d54-9678-dc126d211940" />
+)
 
 ---
 
